@@ -2,3 +2,7 @@
 
 var str = "Hello, playground"
 
+str = "changed the variable"
+
+
+
