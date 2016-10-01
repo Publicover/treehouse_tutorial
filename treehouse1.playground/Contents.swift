@@ -4,5 +4,8 @@ var str = "Hello, playground"
 
 str = "changed the variable"
 
+// Constants
+
+let language = "Swift"
 
 
